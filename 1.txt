@@ -1,0 +1,1 @@
+This should contain the monologue after the player enters their name, with their backstory as a rogue.
